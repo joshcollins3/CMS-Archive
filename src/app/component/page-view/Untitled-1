@@ -1,0 +1,11 @@
+[
+    {
+    "url": "/test/test.html",
+    "displayName": "test"
+    },
+
+    {
+    "url": "/test/test2.html",
+    "displayName": "test2"
+    }
+]

@@ -1,0 +1,6 @@
+<h1>Pages:</h1>
+<ul>
+    <li *ngFor= "let page of pages">
+        <a [routerLink]="['/page/'+formatLink(page.path)]" >{{page.path}}</a>
+    </li>
+</ul>
